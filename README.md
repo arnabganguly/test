@@ -1,2 +1,2 @@
 # Python
-Here are some programs I ramdomly wrote when working on Python datascience projects
+Here are some programs I randomly wrote when working on Python datascience projects
