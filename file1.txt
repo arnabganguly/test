@@ -1,1 +1,2 @@
 This is an update to file1.txt. 
+This is the second update to the file 
