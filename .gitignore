@@ -1,4 +1,4 @@
-1 logs/
-2 /logs
-3 /logs/*.txt
-4 /logs/*.log
+logs/
+/logs
+/logs/*.txt
+/logs/*.log
